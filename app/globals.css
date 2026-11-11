@@ -1,0 +1,4 @@
+@import "tailwindcss";
+:root{--ink:#10201a;--ivory:#f4f0e7;--forest:#143c2d;--sage:#aabd9d;--gold:#c7a55b;--navy:#071b33;--amber:#ffbf2f}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;color:#17201d;background:#fff;font-family:Arial,Helvetica,sans-serif}a{text-decoration:none;color:inherit}button,input,textarea,select{font:inherit}button,a{touch-action:manipulation}.serif{font-family:Georgia,'Times New Roman',serif}.focusable:focus-visible{outline:3px solid #ffbf2f;outline-offset:3px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
